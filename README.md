@@ -4,4 +4,4 @@
 ##설명
 
 플레이어
-![player](./graphics/player.jpg)
+![player](./graphics/player.png)
