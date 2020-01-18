@@ -1,7 +1,8 @@
 # 간단하게 만든 게임
 2019년 크리스마스에 집에서 하루동안 만든 게임입니다.
 
-![title](./graphics/title.jpg)
+![preiview1](./graphics/preview1.png)
+![preiview2](./graphics/preview2.png)
 
 ## 설명
 
